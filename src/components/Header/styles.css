@@ -1,0 +1,37 @@
+#cabecalho
+{
+    background-color: #da627d;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#cabecalho h1
+{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#cabecalho ol 
+{
+    
+    background-color: #ffa5ab;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    padding: 5px;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+#cabecalho ol a{
+    color: white;
+    padding: 8px;
+    width: 100%;
+    text-decoration: none;
+}
+
+#cabecalho ol a:hover{
+    background-color: #dd9196;
+}
