@@ -1,0 +1,13 @@
+#welcome
+{
+    display: flex;
+    justify-content: center;
+}
+
+.iamegm-2
+{
+    display: flex;
+    justify-content: right;
+    margin-left: 1460px;
+    margin-top: -400px;
+}
