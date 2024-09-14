@@ -5,31 +5,37 @@
 }
 h1
 {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    font-size: 33px;
+    margin-top: 50px;
+    font-size: 32px;
 }
 .iamegm-1
 {
     display: flex;
     position: fixed;
     margin-top: -300px;
+    margin-left: 10px;
 }
 .piadas
 {
-    display: flex;
     margin-left: 25%;
     margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .piadas li
 {
-    margin-bottom: 22px;
+    margin-bottom: 18px;
+    font-size: 18px;
 }
- h4
+span
 {
-  
+    font-family: Arial, Helvetica, sans-serif;
     margin: 30px;
-    
+    font-size: 18px;
 }
 .iamegm-2
 {

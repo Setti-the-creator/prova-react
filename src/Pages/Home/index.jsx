@@ -8,9 +8,9 @@ export default function Home()
         <div >
         <h1>Olá senhoras e senhores</h1>
         </div>
-                <h4>Se você está aqui, é porque está pronto para adicionar uma dose de humor lendário ao seu projeto! A Chuck Norris Joke API é a sua fonte definitiva de piadas épicas sobre o homem, a lenda, o mito: Chuck Norris.</h4>
-                <h4>O que é a Chuck Norris Joke API?
-                A Chuck Norris Joke API é um serviço simples e direto para acessar uma coleção de piadas clássicas e novas sobre o icônico Chuck Norris. Cada piada é cuidadosamente selecionada para garantir que você receba uma dose de risadas e admiração pelo homem que, segundo dizem, não precisa de um Google; ele sabe tudo.</h4>
+                <span>Se você está aqui, é porque está pronto para adicionar uma dose de humor lendário ao seu projeto! A Chuck Norris Joke API é a sua fonte definitiva de piadas épicas sobre o homem, a lenda, o mito: Chuck Norris.</span>
+                <p><span><strong>O que é a Chuck Norris Joke API?</strong>
+                A Chuck Norris Joke API é um serviço simples e direto para acessar uma coleção de piadas clássicas e novas sobre o icônico Chuck Norris. Cada piada é cuidadosamente selecionada para garantir que você receba uma dose de risadas e admiração pelo homem que, segundo dizem, não precisa de um Google; ele sabe tudo.</span></p>
        <section className='piadas'>
         <div>
             <ul>
