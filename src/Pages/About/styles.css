@@ -10,11 +10,15 @@
 {
     display: fixed;
     margin-top: 10px;
-    margin-left: 80%;
+    margin-left: 88%;
 }
 
 #sessao
 {
+    display: flex;
+    flex-direction: column;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 50px;
+    margin: 30px;
+    margin-right: 242px;
+    margin-top: -290px;
 }

@@ -3,9 +3,9 @@ import './styles.css'
 export default function About(){
     return(
         <div id="about">
+                <h2 id="subtitulo-about">Sobre o Chuck Norris</h2>
             <img class="imagem" width={220} height={300} src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/220px-Chuck_Norris_May_2015.jpg"/>
             <section id="sessao">
-                <h2 id="subtitulo-about">Sobre o Chuck Norris</h2>
                 <ul>
                     <li><strong>Nome completo:</strong> Carlos Ray "Chuck" Norris</li>
                     <li><strong>Data de nascimento:</strong> 10 de março de 1940</li>
