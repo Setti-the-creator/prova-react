@@ -3,5 +3,8 @@ footer
     background-color: #a53860;
     color: white;
     text-align: center;
+    position: fixed;
+    width: 100%;
     padding: 15px;
+    bottom: 0;
 }

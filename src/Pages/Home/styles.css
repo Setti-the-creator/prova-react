@@ -10,19 +10,32 @@ h1
 }
 .iamegm-1
 {
-    display: fixed;
+    display: flex;
+    position: fixed;
+    margin-top: -300px;
+}
+.piadas
+{
+    display: flex;
+    margin-left: 25%;
+    margin-top: 10%;
 }
 
-#welcome h4
+.piadas li
 {
-    justify-content: center;
-    flex: 1;
-    text-align: center;
+    margin-bottom: 22px;
+}
+ h4
+{
+  
+    margin: 30px;
+    
 }
 .iamegm-2
 {
-    display: fixed;
+    display: flex;
+    position: fixed;
     justify-content: right;
-    margin-left: 1460px;
-    margin-top: -400px;
+    margin-left: 1475px;
+    margin-top: -300px;
 }
