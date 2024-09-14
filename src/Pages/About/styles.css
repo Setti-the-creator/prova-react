@@ -1,0 +1,20 @@
+#subtitulo-about
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+}
+
+.imagem
+{
+    display: fixed;
+    margin-top: 10px;
+    margin-left: 80%;
+}
+
+#sessao
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
